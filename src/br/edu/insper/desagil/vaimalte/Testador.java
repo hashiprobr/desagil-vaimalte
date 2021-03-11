@@ -22,16 +22,4 @@ public class Testador {
 		return false;
 	}
 
-	public boolean testeF() {
-		return false;
-	}
-
-	public boolean testeG() {
-		return false;
-	}
-
-	public boolean testeH() {
-		return false;
-	}
-
 }

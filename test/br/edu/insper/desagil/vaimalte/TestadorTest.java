@@ -37,19 +37,4 @@ class TestadorTest {
 	public void testeE() {
 		assertTrue(t.testeE());
 	}
-
-	@Test
-	public void testeF() {
-		assertTrue(t.testeF());
-	}
-
-	@Test
-	public void testeG() {
-		assertTrue(t.testeG());
-	}
-
-	@Test
-	public void testeH() {
-		assertTrue(t.testeH());
-	}
 }
